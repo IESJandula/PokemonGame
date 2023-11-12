@@ -41,7 +41,7 @@ public class Application
 	{
 		try
 		{
-			// ------LOADING ALL THE POKEMONS FROM THE FILE----------
+			// -------LOADING ALL THE POKEMONS FROM THE FILE-----------
 			this.PokemonList = this.loadPokemonData();
 		}
 		catch (PokemonException exception)
