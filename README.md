@@ -28,7 +28,7 @@ If you have doubts about the statistics of any pokemon, simply leave your mouse 
 # 💾 **REQUERIMENTS** 💾
 - >☕ **Java necesary.**
 - >☕ **Java Swing**
-- >☕ **Java verseion 17 recommended (It may work with lower versions but causes problems).**
+- >☕ **Java version 17 recommended (It may work with lower versions but causes problems).**
 - >☕ **Necesary library (lombok).**
 
 #  👨‍💻 **Tech** 👨‍💻
